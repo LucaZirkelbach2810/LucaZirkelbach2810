@@ -33,14 +33,6 @@
 
 ###
 
-<div align="left">
-  <a href="paypal.me/lucazirkelbach1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 <picture>
